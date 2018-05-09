@@ -31,3 +31,6 @@ its corresponding information pulled up from Wikipedia
 <img style="float:left;" src='https://media.giphy.com/media/TgHoyn8inb525sF5zS/giphy.gif' title='Add Painting' alt='Add Painting'/>
 </div>
 
+#### Review Post, Search User, Follow/Unfollow User
+
+
