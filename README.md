@@ -32,6 +32,11 @@ its corresponding information pulled up from Wikipedia
 </div>
 
 
-#### Review Post, Search User, Follow/Unfollow User
+#### Review Post, Search User and Follow User, UnFollow User and Like/Unlike Post
 
+<div>
+<img style="float:left;" src='https://media.giphy.com/media/toe7mUiOOjONadx5jr/giphy.gif' title='Review Post' alt='Review Post'/>
+<img style="float:left;" src='https://i.imgur.com/iXagN0B.gifv' title='Search User' alt='Search User'/>
+<img style="float:left;" src='https://media.giphy.com/media/SFJEuRP0E3rdBvLbkR/giphy.gif' title='Add Painting' alt='Add Painting'/>
+</div>
 
