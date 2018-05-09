@@ -28,7 +28,7 @@ its corresponding information pulled up from Wikipedia
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/1sxvH7VqDJNFxiaccQ/giphy.gif' title='User Profile Map' alt='User Profile Map'/>
 <img style="float:left;" src='https://media.giphy.com/media/3FkjQCLoQTeuwovjCh/giphy.gif' title='Wikipedia Search' alt='Wikipedia Search'/>
-<img style="float:left;" src='https://media.giphy.com/media/w8ZLA6PU7qCQWr5aIw/giphy.gif' title='Add Post' alt='Add Post'/>
+<img style="float:left;" src='https://media.giphy.com/media/WNmJdJW1hRdMR4hmeg/giphy.gif' title='Add Post' alt='Add Post'/>
 </div>
 
 #### Review Post, Search User, Follow/Unfollow User
