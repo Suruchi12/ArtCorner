@@ -14,7 +14,7 @@
   * Post, Review and User information stored in Firebase
 
 ## Finished App
-### Login Guide, User Sign In, User Sign Up <br>
+### Login Guide,  Sign In,  Sign Up <br>
 
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/5UEzYQN5eo2J6nstHY/giphy.gif' title='Login Guide' alt='Login Guide'/>
@@ -23,7 +23,7 @@
 </div>
 
 
-### User Profile, Wikipedia Search, Add Painting <br>
+### User Profile,  Wikipedia Search,  Add Painting <br>
 
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/1sxvH7VqDJNFxiaccQ/giphy.gif' title='User Profile Map' alt='User Profile Map'/>
@@ -32,7 +32,7 @@
 </div>
 
 
-### Review Post, Search User and Follow User and Like/Unlike Post and UnFollow User <br>
+### Review Post,  Search and Follow User,  Like/Unlike Post and UnFollow User <br>
 
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/toe7mUiOOjONadx5jr/giphy.gif' title='Review Post' alt='Review Post'/>
