@@ -18,16 +18,16 @@ its corresponding information pulled up from Wikipedia
 #### Login Guide, User Sign In, User Sign Up
 
 <div>
-<img style="float:left;" src='https://i.imgur.com/a/pbv3ESv.gif' title='Login Guide' alt='Login Guide'/>
-<img style="float:left;" src='https://i.imgur.com/EZrBv2k.gif' title='User Sign In' alt='User Sign In'/>
-<img style="float:left;" src='https://i.imgur.com/a/dhHfzRC.gif' title='User Sign Up' alt='User Sign Up'/>
+<img style="float:left;" src='https://media.giphy.com/media/5UEzYQN5eo2J6nstHY/giphy.gif' title='Login Guide' alt='Login Guide'/>
+<img style="float:left;" src='https://media.giphy.com/media/uTOQOqfK26Q9cPjzAm/giphy.gif' title='User Sign In' alt='User Sign In'/>
+<img style="float:left;" src='https://media.giphy.com/media/4MXXgkCQYBqXZtGOS8/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
 </div>
 
 #### User Profile, Wikipedia Search, Add Post
 
 <div>
-<img style="float:left;" src='https://i.imgur.com/a/MgfGMnQ.gif' title='User Profile Map' alt='User Profile Map'/>
-<img style="float:left;" src='https://i.imgur.com/a/1KzWSOB.gif' title='Wikipedia Search' alt='Wikipedia Search'/>
-<img style="float:left;" src='https://imgur.com/BL0FZPA' title='Add Painting' alt='Add Painting'/>
+<img style="float:left;" src='https://media.giphy.com/media/1sxvH7VqDJNFxiaccQ/giphy.gif' title='User Profile Map' alt='User Profile Map'/>
+<img style="float:left;" src='https://media.giphy.com/media/3FkjQCLoQTeuwovjCh/giphy.gif' title='Wikipedia Search' alt='Wikipedia Search'/>
+<img style="float:left;" src='https://media.giphy.com/media/TgHoyn8inb525sF5zS/giphy.gif' title='Add Painting' alt='Add Painting'/>
 </div>
 
