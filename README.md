@@ -23,6 +23,7 @@ its corresponding information pulled up from Wikipedia
 <img style="float:left;" src='https://media.giphy.com/media/4MXXgkCQYBqXZtGOS8/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
 </div>
 
+
 #### User Profile, Wikipedia Search, Add Painting
 
 <div>
@@ -32,11 +33,11 @@ its corresponding information pulled up from Wikipedia
 </div>
 
 
-#### Review Post, Search User and Follow User, UnFollow User and Like/Unlike Post
+#### Review Post, Search User and Follow User and Like/Unlike Post and UnFollow User
 
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/toe7mUiOOjONadx5jr/giphy.gif' title='Review Post' alt='Review Post'/>
 <img style="float:left;" src='https://media.giphy.com/media/1n5EuMX7zK6wCv18Ud/giphy.gif' title='Search User' alt='Search User'/>
-<img style="float:left;" src='https://media.giphy.com/media/SFJEuRP0E3rdBvLbkR/giphy.gif' title='Add Painting' alt='Add Painting'/>
+<img style="float:left;" src='https://media.giphy.com/media/fwW2EyyRNEh2CZ5RkS/giphy.gif' title='Like/Follow' alt='Like_Follow'/>
 </div>
 
