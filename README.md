@@ -28,6 +28,6 @@ its corresponding information pulled up from Wikipedia
 <div>
 <img style="float:left;" src='https://i.imgur.com/a/MgfGMnQ.gif' title='User Profile Map' alt='User Profile Map'/>
 <img style="float:left;" src='https://i.imgur.com/a/1KzWSOB.gif' title='Wikipedia Search' alt='Wikipedia Search'/>
-<img style="float:left;" src='https://i.imgur.com/a/yiZlCle.gif' title='Add Painting' alt='Add Painting'/>
+<img style="float:left;" src='https://imgur.com/BL0FZPA' title='Add Painting' alt='Add Painting'/>
 </div>
 
