@@ -18,16 +18,16 @@ its corresponding information pulled up from Wikipedia
 #### Login Guide, User Sign In, User Sign Up
 
 <div>
-<img style="float:left;" src='https://imgur.com/a/pbv3ESv' title='Login Guide' alt='Login Guide'/>
-<img style="float:left;" src='https://imgur.com/EZrBv2k' title='User Sign In' alt='User Sign In'/>
-<img style="float:left;" src='https://imgur.com/a/dhHfzRC' title='User Sign Up' alt='User Sign Up'/>
+<img style="float:left;" src='http://imgur.com/a/pbv3ESv' title='Login Guide' alt='Login Guide'/>
+<img style="float:left;" src='http://imgur.com/EZrBv2k' title='User Sign In' alt='User Sign In'/>
+<img style="float:left;" src='http://imgur.com/a/dhHfzRC' title='User Sign Up' alt='User Sign Up'/>
 </div>
 
 #### User Profile, Wikipedia Search, Add Post
 
 <div>
-<img style="float:left;" src='https://imgur.com/a/MgfGMnQ' title='User Profile Map' alt='User Profile Map'/>
-<img style="float:left;" src='https://imgur.com/a/1KzWSOB' title='Wikipedia Search' alt='Wikipedia Search'/>
-<img style="float:left;" src='https://imgur.com/a/yiZlCle' title='Add Painting' alt='Add Painting'/>
+<img style="float:left;" src='http://imgur.com/a/MgfGMnQ' title='User Profile Map' alt='User Profile Map'/>
+<img style="float:left;" src='http://imgur.com/a/1KzWSOB' title='Wikipedia Search' alt='Wikipedia Search'/>
+<img style="float:left;" src='http://imgur.com/a/yiZlCle' title='Add Painting' alt='Add Painting'/>
 </div>
 
