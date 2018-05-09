@@ -31,7 +31,7 @@ its corresponding information pulled up from Wikipedia
 <img style="float:left;" src='https://media.giphy.com/media/WNmJdJW1hRdMR4hmeg/giphy.gif' title='Add Painting' alt='Add Painting'/>
 </div>
 
-![Movie Information](https://media.giphy.com/media/WNmJdJW1hRdMR4hmeg/giphy.gif)
+![Add Painting](https://media.giphy.com/media/WNmJdJW1hRdMR4hmeg/giphy.gif)
 
 #### Review Post, Search User, Follow/Unfollow User
 
