@@ -28,7 +28,7 @@ its corresponding information pulled up from Wikipedia
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/1sxvH7VqDJNFxiaccQ/giphy.gif' title='User Profile Map' alt='User Profile Map'/>
 <img style="float:left;" src='https://media.giphy.com/media/3FkjQCLoQTeuwovjCh/giphy.gif' title='Wikipedia Search' alt='Wikipedia Search'/>
-<img style="float:left;" src='https://i.imgur.com/bj0YqkC.gifv' title='Add Painting' alt='Add Painting'/>
+<img style="float:left;" src='https://i.imgur.com/R4qMQDP.gifv' title='Add Painting' alt='Add Painting'/>
 </div>
 
 ![Add Painting](https://media.giphy.com/media/WNmJdJW1hRdMR4hmeg/giphy.gif)
