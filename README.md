@@ -23,7 +23,7 @@ its corresponding information pulled up from Wikipedia
 <img style="float:left;" src='https://media.giphy.com/media/4MXXgkCQYBqXZtGOS8/giphy.gif' title='User Sign Up' alt='User Sign Up'/>
 </div>
 
-#### User Profile, Wikipedia Search, Add Post
+#### User Profile, Wikipedia Search, Add Painting
 
 <div>
 <img style="float:left;" src='https://media.giphy.com/media/1sxvH7VqDJNFxiaccQ/giphy.gif' title='User Profile Map' alt='User Profile Map'/>
