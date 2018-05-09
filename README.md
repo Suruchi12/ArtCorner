@@ -1,9 +1,9 @@
 # ArtCorner
 
-  App made programmatically, i.e., without storyboard
-  Social Media app for people who love art.
-  The user can sign up to Register and after they have Logged in they can access the app.
-  The users can post the art that they have seen or possess and the information related to it so others can see what they art   they possess on their feed. The images are posted by accessing users Photo Library.
+  -App made programmatically, i.e., without storyboard
+  -Social Media app for people who love art.
+  -The user can sign up to Register and after they have Logged in they can access the app.
+  -The users can post the art that they have seen or possess and the information related to it so others can see what they art   they possess on their feed. The images are posted by accessing users Photo Library.
   Other users can like/favorite it and give their reviews on it as well.
   This can help art lovers find about their favorite art from their friends and also have an option to review it.
   The users can follow/unfollow other users.
