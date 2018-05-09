@@ -1,4 +1,4 @@
-# ArtCorner
+# Art Corner
 
   * App made programmatically, i.e., without storyboard
   * Social Media app for people who love art.
